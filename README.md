@@ -34,6 +34,13 @@ Backend
 - API
 - DATA URI for private videoer
 
+### Resources
+https://en.wikipedia.org/wiki/Data_URI_scheme
+
+https://en.wikipedia.org/wiki/Pagination
+
+https://en.wikipedia.org/wiki/Fragmentation_(computing)#Data_fragmentation
+
 ### Made Group? Questions? Something else?
 Contact me: Kjell Harald (Stavanger) in the kodehode discord.
 If you need access to a server for this project, let me know.
