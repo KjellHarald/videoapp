@@ -31,7 +31,7 @@ FrontEnd
 
 Backend
 - Make Data Structure
-- Authorisation (Kryptering for bruker passord)
+- Authorisation (NB: REmember user passwords must be encrypted!)
 - API
 - DATA URI for private videos
 
