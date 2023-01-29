@@ -38,7 +38,7 @@ Backend
 ### Resources
 https://en.wikipedia.org/wiki/Data_URI_scheme
 
-https://en.wikipedia.org/wiki/Pagination
+https://en.wikipedia.org/wiki/Pagination#In_web_browsers
 
 https://en.wikipedia.org/wiki/Fragmentation_(computing)#Data_fragmentation
 
