@@ -13,7 +13,7 @@ How you solve the task is completely in your hands.
 The task is designed to have value for you, regardless of your knowledge and skill level.
 Nor does the end goal need to be a fully production ready application.
 
-The task: https://github.com/KjellHarald/videoapp/blob/master/README.md
+The task: https://github.com/KjellHarald/videoapp
 
 Good luck!
 
