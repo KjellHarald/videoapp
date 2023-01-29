@@ -10,7 +10,7 @@ Because this project will go on while the possibility to lose group particepants
 This will also be a versatillity test. Where it may be required to replace group members and change roles with little or no warning.
 
 How you solve the task is completely in your hands.
-The task is designed to have value for you, regardless of you're knowledge and skill level.
+The task is designed to have value for you, regardless of your knowledge and skill level.
 Nor does the end goal need to be a fully production ready application.
 
 The task: https://github.com/KjellHarald/videoapp/edit/master/README.md
