@@ -19,20 +19,21 @@ Good luck!
 
 
 # Video App
-En fullstack video app som kan integreres inn i alle nettsider.
+A Fullstack Video Application that can be integrated into any website.
 
 FrontEnd
-- Innloggning og Registrering
-- Custom/ Video Spiller
-- Kategorier
-- Søkefunksjon
-- Opplastning og Publiserings Verktøy
+- Login and Registration
+- Custom-/ Video Player
+- Categories
+- Search Function
+- Uploads & Publishing Tools
+- Pagination
 
 Backend
-- Lage data struktur
-- Autorisering (Kryptering for bruker passord)
+- Make Data Structure
+- Authorisation (Kryptering for bruker passord)
 - API
-- DATA URI for private videoer
+- DATA URI for private videos
 
 ### Resources
 https://en.wikipedia.org/wiki/Data_URI_scheme
