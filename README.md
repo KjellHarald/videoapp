@@ -21,6 +21,8 @@ Good luck!
 # Video App
 A Fullstack Video Application that can be integrated into any website.
 
+Here is a few points to get you started.
+
 FrontEnd
 - Login and Registration
 - Custom-/ Video Player
