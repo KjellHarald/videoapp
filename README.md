@@ -19,9 +19,6 @@ Nor does the end goal need to be a fully production ready application.
 
 The task: https://github.com/KjellHarald/videoapp
 
-A word of courage: Although this task look intimidating, try to see the value of a project like this on your portfolio.
-The important lessons you will learn on your adventure and oppertunity to learn from the individuals with diffirent skills around you.
-
 Good luck!
 
 
