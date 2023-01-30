@@ -1,5 +1,7 @@
 Hello, Module S!
 
+Congratulations on your achievements so far!
+
 If you are done with your portfolio. Then this is an open invitation to create groups amongst yourself.
 Groups may cross cities. The task will hold a main focus on communication, good use of github and it's tools and prepare us to work in teams on a new level.
 
